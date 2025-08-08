@@ -1,9 +1,0 @@
-Types:
-String
-Integer
-Boolean
----
-Lists
-Dictionaries
-Tuples (once in the list, cannot change, a fixed list)
-points
